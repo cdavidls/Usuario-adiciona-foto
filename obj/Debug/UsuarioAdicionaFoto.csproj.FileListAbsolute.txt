@@ -1,0 +1,9 @@
+C:\Users\david\source\repos\UsuarioAdicionaFoto\bin\Debug\UsuarioAdicionaFoto.exe.config
+C:\Users\david\source\repos\UsuarioAdicionaFoto\bin\Debug\UsuarioAdicionaFoto.exe
+C:\Users\david\source\repos\UsuarioAdicionaFoto\bin\Debug\UsuarioAdicionaFoto.pdb
+C:\Users\david\source\repos\UsuarioAdicionaFoto\obj\Debug\UsuarioAdicionaFoto.csprojAssemblyReference.cache
+C:\Users\david\source\repos\UsuarioAdicionaFoto\obj\Debug\UsuarioAdicionaFoto.Form1.resources
+C:\Users\david\source\repos\UsuarioAdicionaFoto\obj\Debug\UsuarioAdicionaFoto.Properties.Resources.resources
+C:\Users\david\source\repos\UsuarioAdicionaFoto\obj\Debug\UsuarioAdicionaFoto.csproj.GenerateResource.cache
+C:\Users\david\source\repos\UsuarioAdicionaFoto\obj\Debug\UsuarioAdicionaFoto.exe
+C:\Users\david\source\repos\UsuarioAdicionaFoto\obj\Debug\UsuarioAdicionaFoto.pdb
